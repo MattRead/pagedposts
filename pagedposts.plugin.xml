@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>Paged Posts</name>
+	<version>0.1</version>
+	<url>https://github.com/MattRead/pagedposts</url>
+	<author url="http://mattread.com/">Matt Read</author>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<description><![CDATA[Split up your posts into different pages.]]></description>
+	<copyright>2012</copyright>
+
+	<help>
+		<value><![CDATA[
+			<p>This plugin will split your posts into seperate pages, as many as you choose. Simply
+				add <code>&lt;!--nextpage--&gt</code> wherever you want a page break. The plugin will
+				take care of displaying the navigation links for you.
+			</p>
+	]]></value>
+	</help>
+</pluggable>
+
