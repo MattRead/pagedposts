@@ -3,6 +3,7 @@
 	<name>Paged Posts</name>
 	<version>0.1</version>
 	<url>https://github.com/MattRead/pagedposts</url>
+	<guid>git@github.com:MattRead/pagedposts.git</guid>
 	<author url="http://mattread.com/">Matt Read</author>
 	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
 	<description><![CDATA[Split up your posts into different pages.]]></description>
