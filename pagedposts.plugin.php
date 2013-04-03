@@ -1,4 +1,5 @@
 <?php
+namespace Habari;
 
 /**
  * Paged Posts plugin for Habari
