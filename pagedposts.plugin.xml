@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <pluggable type="plugin">
 	<name>Paged Posts</name>
-	<version>0.1</version>
+	<version>0.2</version>
 	<url>https://github.com/MattRead/pagedposts</url>
 	<guid>B4280428-7A5A-454E-8729-9D74140C5B35</guid>
 	<author url="http://mattread.com/">Matt Read</author>
